@@ -1,3 +1,0 @@
-file_name = '../input/gtd/globalterrorismdb_0718dist.csv'
-data = pd.read_csv(file_name, encoding = 'ISO-8859-1')
-data.head()
